@@ -1,0 +1,608 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\config\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:config\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|VenteMaison||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|c:\\users\\charlie\\source\\repos\\ventemaison\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\contrat\\contratform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:contrat\\contratform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\contrat\\contratform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:contrat\\contratform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\contrat\\ajoutercontrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:contrat\\ajoutercontrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\datagrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:datagrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\model\\vente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:model\\vente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\model\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:model\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\model\\paiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:model\\paiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\model\\maison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:model\\maison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\model\\contrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:model\\contrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\model\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:model\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\paiment\\paimentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:paiment\\paimentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\paiment\\paimentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:paiment\\paimentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\paiment\\ajouterpaiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:paiment\\ajouterpaiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\paiment\\ajouterpaiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:paiment\\ajouterpaiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:user\\userform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\user\\ajouteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:user\\ajouteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\user\\ajouteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:user\\ajouteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\venteajouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:vente\\venteajouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\venteajouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:vente\\venteajouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\venteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:vente\\venteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\venteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:vente\\venteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\datagrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:datagrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\style.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:style.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|C:\\Users\\charlie\\source\\repos\\VenteMaison\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079B8642-8ED8-4E05-BFCF-0D1056C01134}|VenteMaison.csproj|c:\\users\\charlie\\source\\repos\\ventemaison\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 231,
+          "SelectedChildIndex": 34,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-01T10:06:38.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VenteMaison",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\VenteMaison.csproj",
+              "RelativeDocumentMoniker": "VenteMaison.csproj",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\VenteMaison.csproj",
+              "RelativeToolTip": "VenteMaison.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-01T10:15:23.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContratForm.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Contrat\\ContratForm.cs",
+              "RelativeDocumentMoniker": "Contrat\\ContratForm.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Contrat\\ContratForm.cs",
+              "RelativeToolTip": "Contrat\\ContratForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:53:48.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContratForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Contrat\\ContratForm.cs",
+              "RelativeDocumentMoniker": "Contrat\\ContratForm.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Contrat\\ContratForm.cs [Design]",
+              "RelativeToolTip": "Contrat\\ContratForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:53:45.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AjouterContrat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Contrat\\AjouterContrat.cs",
+              "RelativeDocumentMoniker": "Contrat\\AjouterContrat.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Contrat\\AjouterContrat.cs [Design]",
+              "RelativeToolTip": "Contrat\\AjouterContrat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:53:40.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vente.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Vente.cs",
+              "RelativeDocumentMoniker": "Model\\Vente.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Vente.cs",
+              "RelativeToolTip": "Model\\Vente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:41:16.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Table.cs",
+              "RelativeDocumentMoniker": "Model\\Table.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Table.cs",
+              "RelativeToolTip": "Model\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:41:10.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Paiment.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Paiment.cs",
+              "RelativeDocumentMoniker": "Model\\Paiment.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Paiment.cs",
+              "RelativeToolTip": "Model\\Paiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:41:05.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Maison.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Maison.cs",
+              "RelativeDocumentMoniker": "Model\\Maison.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Maison.cs",
+              "RelativeToolTip": "Model\\Maison.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:41:01.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Database.cs",
+              "RelativeDocumentMoniker": "Model\\Database.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Database.cs",
+              "RelativeToolTip": "Model\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:40:56.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Contrat.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Contrat.cs",
+              "RelativeDocumentMoniker": "Model\\Contrat.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Contrat.cs",
+              "RelativeToolTip": "Model\\Contrat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:40:47.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Client.cs",
+              "RelativeDocumentMoniker": "Model\\Client.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Client.cs",
+              "RelativeToolTip": "Model\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:40:29.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Agent.cs",
+              "RelativeDocumentMoniker": "Model\\Agent.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Model\\Agent.cs",
+              "RelativeToolTip": "Model\\Agent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:40:21.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PaimentForm.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Paiment\\PaimentForm.cs",
+              "RelativeDocumentMoniker": "Paiment\\PaimentForm.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Paiment\\PaimentForm.cs",
+              "RelativeToolTip": "Paiment\\PaimentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:40:14.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaimentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Paiment\\PaimentForm.cs",
+              "RelativeDocumentMoniker": "Paiment\\PaimentForm.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Paiment\\PaimentForm.cs [Design]",
+              "RelativeToolTip": "Paiment\\PaimentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:40:13.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AjouterPaiment.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Paiment\\AjouterPaiment.cs",
+              "RelativeDocumentMoniker": "Paiment\\AjouterPaiment.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Paiment\\AjouterPaiment.cs",
+              "RelativeToolTip": "Paiment\\AjouterPaiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:40:06.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AjouterPaiment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Paiment\\AjouterPaiment.cs",
+              "RelativeDocumentMoniker": "Paiment\\AjouterPaiment.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Paiment\\AjouterPaiment.cs [Design]",
+              "RelativeToolTip": "Paiment\\AjouterPaiment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:40:03.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AjouterUser.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User\\AjouterUser.cs",
+              "RelativeDocumentMoniker": "User\\AjouterUser.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User\\AjouterUser.cs",
+              "RelativeToolTip": "User\\AjouterUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:39:48.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AjouterUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User\\AjouterUser.cs",
+              "RelativeDocumentMoniker": "User\\AjouterUser.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User\\AjouterUser.cs [Design]",
+              "RelativeToolTip": "User\\AjouterUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:39:47.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VenteAjouter.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\VenteAjouter.cs",
+              "RelativeDocumentMoniker": "vente\\VenteAjouter.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\VenteAjouter.cs",
+              "RelativeToolTip": "vente\\VenteAjouter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:39:42.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VenteAjouter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\VenteAjouter.cs",
+              "RelativeDocumentMoniker": "vente\\VenteAjouter.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\VenteAjouter.cs [Design]",
+              "RelativeToolTip": "vente\\VenteAjouter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:39:40.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "VenteForm.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\VenteForm.cs",
+              "RelativeDocumentMoniker": "vente\\VenteForm.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\VenteForm.cs",
+              "RelativeToolTip": "vente\\VenteForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:39:35.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VenteForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\VenteForm.cs",
+              "RelativeDocumentMoniker": "vente\\VenteForm.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\vente\\VenteForm.cs [Design]",
+              "RelativeToolTip": "vente\\VenteForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:39:33.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Datagrid.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Datagrid.cs",
+              "RelativeDocumentMoniker": "Datagrid.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Datagrid.cs",
+              "RelativeToolTip": "Datagrid.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:39:07.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Datagrid.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Datagrid.cs",
+              "RelativeDocumentMoniker": "Datagrid.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Datagrid.cs [Design]",
+              "RelativeToolTip": "Datagrid.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:39:05.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:38:44.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:38:43.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:38:38.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAIwGIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:38:03.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stat.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Stat.cs",
+              "RelativeDocumentMoniker": "Stat.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Stat.cs",
+              "RelativeToolTip": "Stat.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:37:17.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stat.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Stat.cs",
+              "RelativeDocumentMoniker": "Stat.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Stat.cs [Design]",
+              "RelativeToolTip": "Stat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:37:15.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserForm.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User\\UserForm.cs",
+              "RelativeDocumentMoniker": "User\\UserForm.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User\\UserForm.cs",
+              "RelativeToolTip": "User\\UserForm.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwG4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:36:47.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User\\UserForm.cs",
+              "RelativeDocumentMoniker": "User\\UserForm.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\User\\UserForm.cs [Design]",
+              "RelativeToolTip": "User\\UserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:36:46.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Config\\Configuration.cs",
+              "RelativeDocumentMoniker": "Config\\Configuration.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Config\\Configuration.cs",
+              "RelativeToolTip": "Config\\Configuration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:25:21.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Style.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Style.cs",
+              "RelativeDocumentMoniker": "Style.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Style.cs",
+              "RelativeToolTip": "Style.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAHYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:57:22.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Connexion.cs",
+              "RelativeDocumentMoniker": "Connexion.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Connexion.cs",
+              "RelativeToolTip": "Connexion.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwFoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:28:04.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connexion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Connexion.cs",
+              "RelativeDocumentMoniker": "Connexion.cs",
+              "ToolTip": "C:\\Users\\charlie\\source\\repos\\VenteMaison\\Connexion.cs [Design]",
+              "RelativeToolTip": "Connexion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:28:03.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
